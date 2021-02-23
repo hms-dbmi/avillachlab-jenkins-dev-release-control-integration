@@ -26,7 +26,7 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "1528b09d89a09cf7c396797ca854e835fdfdde16"
+      "git_hash": "0381388dab944f62ba41617e3b8a7b77c1861170"
     }
   ],
   "terraform_vars": [{

@@ -18,7 +18,7 @@
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "09dfdea173ca2b76fe9bd4f776e0dbd41b6a4871"
+      "git_hash": "485de0ff42ce31d485896c5f49787c76f9045da4"
     },{
       "project_name": "PIC-SURE-HPDS DataSTAGE UI Build",
       "project_job_git_key":"PSHDU",
@@ -26,7 +26,7 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "390859d7b4ca06084290b3c6b8156e43bc65af4f"
+      "git_hash": "67c5091b669bef2038c965736616ebb65d8640d9"
     }
   ],
   "terraform_vars": [{
